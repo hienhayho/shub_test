@@ -98,6 +98,7 @@ func main() {
 		fmt.Println(err)
 		return
 	}
+	url = "https://test-share.shub.edu.vn/api/intern-test/output"
 
 	req, err := http.NewRequest("POST", url, bytes.NewBuffer(json_data))
 
