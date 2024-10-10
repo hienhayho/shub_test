@@ -1,3 +1,3 @@
-### SHUB Standardized Test
+### SHUB Competency Test
 
-All 4 tasks from SHUB Standardized Test
+All 4 tasks from SHUB Competency Test
