@@ -6,8 +6,10 @@ npm run build
 npm run start
 ```
 
-### Run app with docker
+### Or run app with docker
 
 ```bash
 docker compose up -d --build
 ```
+
+Then visit [http://localhost:3000](http://localhost:3000) to enjoy the app.
